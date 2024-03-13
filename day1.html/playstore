@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>Applications</title>
+    </head>
+    <body>
+        <table border="1.0">
+            <tr>
+                <th>
+                    app icon
+                </th>
+                <th>
+                    app name
+                </th>
+                <th>
+                    link for download
+                </th>
+                <th>
+                    founded by
+                </th>
+                <th>
+                    in the year of
+                </th>
+                <th>
+                    usage
+                </th>
+            </tr>
+        </table>
+    </body>
+</html>

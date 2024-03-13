@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+    <head>
+        <title>cars</title>
+    </head>
+    <body>
+        <table>
+            <th>car name</th>
+            <th>car colour</th>
+            <th>car price</th>
